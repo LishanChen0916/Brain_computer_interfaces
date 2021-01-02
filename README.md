@@ -4,4 +4,4 @@ Brain computer interfaces (BCI), enables direct communication with a computer, u
 For a given BCI paradigm, feature extractors and classifiers are tailored to the distinct characteristics of its expected EEG control signal, limiting its application to that specific signal. Convolutional Neural Networks (CNNs), which have been used in computer vision and speech recognition, have successfully been applied to EEG-based BCIs.  
 
 ## EEGNet
-![image]()
+![image](https://github.com/LishanChen0916/Brain_computer_interfaces/blob/main/EEGNet.png)
